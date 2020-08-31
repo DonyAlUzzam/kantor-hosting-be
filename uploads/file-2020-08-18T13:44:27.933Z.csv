@@ -1,7 +1,0 @@
-"No","Klasifikasi Volume Transaksi","Jumlah Transaksi","Volume Transaksi","Total Transaksi dengan Input Nopol","Total Transaksi tanpa Input Nopol","Persentase Transaksi Input Nopol(%)"
-"1","Pengisian diatas 400 Liter Per Transaksi","431","296,130.15","17","414","3.94"
-"2","Pengisian 300 - 400 Liter Per Transaksi","292","102,661.39","20","272","6.85"
-"3","Pengisian 200 - 300 Liter Per Transaksi","856","202,120.06","99","757","11.57"
-"4","Pengisian 100 - 200 Liter Per Transaksi","23,780","3,173,548.06","7,151","16,629","30.07"
-"5","Pengisian 50 - 100 Liter Per Transaksi","113,964","7,778,941.81","34,372","79,592","30.16"
-"6","Pengisian dibawah 50 Liter Per Transaksi","6,653,241","39,856,587.75","223,294","6,429,947","3.36"
